@@ -14,7 +14,7 @@ Designed for speed and scalability, it powers AI/ML, analytics, and data-intensi
 This README provides instructions for building MinIO from source and deploying onto baremetal hardware.
 Use the [MinIO Documentation](https://github.com/minio/docs) project to build and host a local copy of the documentation.
 
-## MinIO is Open Source Software
+## MinIO is Open Source Software.
 
 We designed MinIO as Open Source software for the Open Source software community. We encourage the community to remix, redesign, and reshare MinIO under the terms of the AGPLv3 license.
 
@@ -158,3 +158,4 @@ Please follow MinIO [Contributor's Guide](https://github.com/minio/minio/blob/ma
 - MinIO source is licensed under the [GNU AGPLv3](https://github.com/minio/minio/blob/master/LICENSE).
 - MinIO [documentation](https://github.com/minio/minio/tree/master/docs) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 - [License Compliance](https://github.com/minio/minio/blob/master/COMPLIANCE.md)
+}
